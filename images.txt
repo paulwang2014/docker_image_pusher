@@ -1,1 +1,2 @@
-docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
+docker pull Nextcloud
+nginx
